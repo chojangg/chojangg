@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=B522F7&lines=Check+out+my+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&color=1DC6F7&lines=Nice+to+meet+U!+Check+out+my+github)](https://git.io/typing-svg)
 
 <!--
 **chojangg/chojangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
