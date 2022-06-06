@@ -1,4 +1,4 @@
-<div align="center">
+
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&color=1DC6F7&lines=Nice+to+meet+U!+Check+out+my+github)](https://git.io/typing-svg)
 
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... 
 --> 
+<div align="center">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chojangg&show_icons=true&theme=tokyonight)
   #
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chojangg&layout=compact&theme=tokyonight)
