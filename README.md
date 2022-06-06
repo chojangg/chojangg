@@ -1,7 +1,3 @@
-
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&color=1DC6F7&lines=Nice+to+meet+U!+Check+out+my+github)](https://git.io/typing-svg)
-
 <!--
 **chojangg/chojangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +14,7 @@ Here are some ideas to get you started:
 --> 
 <div align="center">
   
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&color=1DC6F7&lines=Nice+to+meet+U!+Check+out+my+github)](https://git.io/typing-svg)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chojangg&show_icons=true&theme=tokyonight)
   #
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chojangg&layout=compact&theme=tokyonight)
