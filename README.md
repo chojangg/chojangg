@@ -18,7 +18,8 @@ Here are some ideas to get you started:
   
   #
   
-  My Skills & Studying & Using 😎
+  <h2><My Skills & Studying & Using 😎></h2>
+  
   <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
