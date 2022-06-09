@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&color=1DC6F7&lines=Nice+to+meet+U!+Check+out+my+github)](https://git.io/typing-svg)
   
   #
-  My Skills & Studying & Using 😎
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&lines=My+skills+%26+Studying+%26+Using)](https://git.io/typing-svg)
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
