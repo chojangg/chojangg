@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   #
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=23&lines=My+skills+%26+Studying+%26+Using)](https://git.io/typing-svg)
   
-  <a href="s2115@e-mirim.hs.kr"target="_blank"><img src="https://img.shields.io/badge/sushin.bot@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="s2115@e-mirim.hs.kr"target="_blank"><img src="https://img.shields.io/badge/s2115@e-mirim.hs.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
