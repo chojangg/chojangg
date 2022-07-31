@@ -36,6 +36,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/></p>
     
    #
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=23&width=300&lines=Contact+ME!)](https://git.io/typing-svg)
+   #
     
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chojangg&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chojangg&layout=compact&theme=tokyonight)
   
