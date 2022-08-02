@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     
    #
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=23&width=160&lines=Contact++ME!!)](https://git.io/typing-svg)
-   <a href="https://velog.io/@chojangg-web"><img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Velog&logoColor=white"/></a>
+   <a href="https://velog.io/@chojangg"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
    #
     
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chojangg&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chojangg&layout=compact&theme=tokyonight)
