@@ -1,4 +1,4 @@
-<!---->
+<!-read me--->
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&width=600&height=55&lines=Nice+to+meet+U!+Check+out+my+Github%F0%9F%92%AD)](https://git.io/typing-svg)
@@ -34,3 +34,4 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchojangg&count_bg=%2377D2EE&title_bg=%23828687&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+<!---->
