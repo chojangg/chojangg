@@ -20,6 +20,11 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/></p>
+  
+  #
+  
+  <a href="https://www.instagram.com/jiceon_db/"><img src="https://img.shields.io/badge/insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+  <a href="https://velog.io/@chojangg"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
     
    #
    <!--
