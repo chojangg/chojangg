@@ -34,9 +34,6 @@
    <a href="https://velog.io/@chojangg"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
    #
    -->
-    
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chojangg&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chojangg&layout=compact&theme=tokyonight)
-  
 
 </div>
-<!---->
