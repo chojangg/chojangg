@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/></p>
     
    #
-   <!--
+   <!--readme 수정
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=23&width=160&lines=Contact++ME!!)](https://git.io/typing-svg)
    <a href="https://velog.io/@chojangg"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
    #
