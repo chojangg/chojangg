@@ -1,7 +1,7 @@
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&width=600&height=55&lines=Nice+to+meet+U!+Check+out+my+Github%F0%9F%92%AD)](https://git.io/typing-svg)
-  
+ 
   #
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=23&lines=My+skills+%26+Studying+%26+Using)](https://git.io/typing-svg)
   
